@@ -1,0 +1,1 @@
+[{"id":10,"manufacturer":"qwe","model":"qw","year":"qw","color":"fff111","distance":"q","fuel":"qwe"}]
